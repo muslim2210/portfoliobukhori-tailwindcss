@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.2.2 | MIT License | https://tailwindcss.com
+! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -549,10 +549,6 @@ video {
   .container {
     max-width: 1536px;
   }
-}
-
-.fixed {
-  position: fixed;
 }
 
 .absolute {
